@@ -8,7 +8,7 @@ Jekyllstrap is a Jekyll template to which is applied a theme of Bootstrap.
 
 [Preview][jekyllstrap-preview]
 
-![Jekyllstrap Screenshot](http://ogaclejapan.github.io/jekyllstrap/assets/image/jekyllstrap-theme-preview.png)
+![Jekyllstrap Screenshot](jekyllstrap-theme-preview.png)
 
 ---
 
