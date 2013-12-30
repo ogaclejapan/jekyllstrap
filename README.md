@@ -8,7 +8,7 @@ Jekyllstrap is a Jekyll template to which is applied a theme of Bootstrap.
 
 [Preview][jekyllstrap-preview]
 
-![Jekyllstrap Preview Screenshot][jekyllstrap-preview-ss]
+![Jekyllstrap Screenshot](http://ogaclejapan.github.io/jekyllstrap/assets/image/jekyllstrap-theme-preview.png)
 
 ---
 
@@ -103,7 +103,6 @@ MIT License. See [LICENSE][jekyllstrap-license]
 [font-awesome]: http://fontawesome.io/
 [jekyllstrap-github]: https://github.com/ogaclejapan/jekyllstrap
 [jekyllstrap-preview]: http://ogaclejapan.github.io/jekyllstrap/
-[jekyllstrap-preview-ss]: http://ogaclejapan.github.io/jekyllstrap/assets/image/jekyllstrap-theme-preview.png
 [jekyllstrap-license]: https://github.com/ogaclejapan/jekyllstrap/blob/master/LICENSE
 
 
