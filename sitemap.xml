@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+	 	<loc>http://ogaclejapan.github.io/jekyllstrap/</loc>
+	 	<lastmod>2013-12-30</lastmod>
+	 	<changefreq>weekly</changefreq>
+	</url>
+
+	<url>
+	 	<loc>http://ogaclejapan.github.io/jekyllstrap/archvies</loc>
+	 	<lastmod>2013-12-30</lastmod>
+	 	<changefreq>weekly</changefreq>
+	</url>
+
+	<url>
+	 	<loc>http://ogaclejapan.github.io/jekyllstrap/categories</loc>
+	 	<lastmod>2013-12-30</lastmod>
+	 	<changefreq>weekly</changefreq>
+	</url>
+
+	<url>
+	 	<loc>http://ogaclejapan.github.io/jekyllstrap/tags</loc>
+	 	<lastmod>2013-12-30</lastmod>
+	 	<changefreq>weekly</changefreq>
+	</url>
+
+	
+	<url>
+	 	<loc>http://ogaclejapan.github.io/jekyllstrap/jekyll/2013/12/17/welcome-to-jekyll/</loc>
+	 	<lastmod>2013-12-17</lastmod>
+	 	<changefreq>never</changefreq>
+	</url>
+	 
+	
+</urlset>

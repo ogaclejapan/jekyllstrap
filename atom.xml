@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+ <id>http://ogaclejapan.github.io/jekyllstrap</id>
+ <title></title>
+ <updated>2013-12-30T16:33:47+09:00</updated>
+ <link rel="self" href="http://ogaclejapan.github.io/jekyllstrap/atom.xml"/>
+ <link href="http://ogaclejapan.github.io/jekyllstrap/"/>
+ <author><name>ogaclejapan</name></author>
+
+ 
+ <entry>
+  <id>http://ogaclejapan.github.io/jekyllstrap/jekyll/2013/12/17/welcome-to-jekyll</id>
+  <title>Welcome to Jekyll!</title>
+  <updated>2013-12-17T21:56:35Z</updated>
+  <link href="http://ogaclejapan.github.io/jekyllstrap/jekyll/2013/12/17/welcome-to-jekyll/"/>
+  <content>You&amp;#39;ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
+To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+
+Jekyll also offers powerful support for code sni...</content>
+ </entry>
+ 
+ 
+</feed>

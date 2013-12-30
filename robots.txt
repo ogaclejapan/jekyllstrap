@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://ogaclejapan.github.io/jekyllstrap/sitemap.xml
+Disallow:
