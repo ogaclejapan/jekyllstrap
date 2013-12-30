@@ -20,4 +20,4 @@ owner :
 #addthis:
 #  pub_id: 'ra-XXXXXXXXXXXXXXX'
 
-exclude: ["README.md", "LICENSE", ".gitignore"]
+exclude: ["README.md", "LICENSE", ".gitignore", "s3_website.yml"]
