@@ -8,19 +8,19 @@
 	</url>
 
 	<url>
-	 	<loc>http://ogaclejapan.github.io/jekyllstrap/archives</loc>
+	 	<loc>http://ogaclejapan.github.io/jekyllstrap/archives/</loc>
 	 	<lastmod>2014-01-01</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
 	<url>
-	 	<loc>http://ogaclejapan.github.io/jekyllstrap/categories</loc>
+	 	<loc>http://ogaclejapan.github.io/jekyllstrap/categories/</loc>
 	 	<lastmod>2014-01-01</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
 
 	<url>
-	 	<loc>http://ogaclejapan.github.io/jekyllstrap/tags</loc>
+	 	<loc>http://ogaclejapan.github.io/jekyllstrap/tags/</loc>
 	 	<lastmod>2014-01-01</lastmod>
 	 	<changefreq>weekly</changefreq>
 	</url>
