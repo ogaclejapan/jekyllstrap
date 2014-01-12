@@ -19,6 +19,22 @@
             </a>
           </li>
           {% endif %}
+          {% if site.owner.googleplus %}
+          <li>
+            {% capture owner_googleplus_url %}https://plus.google.com/{{ site.owner.googleplus }}{% endcapture %}
+            <a href="{{ owner_googleplus_url }}">
+              <i class="fa fa-google-plus-square fa-lg"></i> Google+
+            </a>
+          </li>
+          {% endif %}
+          {% if site.owner.facebook %}
+          <li>
+            {% capture owner_facebook_url %}http://www.facebook.com/{{ site.owner.facebook }}{% endcapture %}
+            <a href="{{ owner_facebook_url }}">
+              <i class="fa fa-facebook-square fa-lg"></i> Facebook
+            </a>
+          </li>
+          {% endif %}
           <li>
             <a href="{{ site.baseurl }}/atom.xml">
               <i class="fa fa-rss-square fa-lg"></i> Rss
