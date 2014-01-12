@@ -14,6 +14,9 @@ owner :
   github : ogaclejapan
   twitter : ogaclejapan
 
+# See http://schema.org/Article
+schema_article_type : Article
+
 #google_analytics :
 #  tracking_id : 'UA-XXXXXXXX-X'
 
