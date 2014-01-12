@@ -34,6 +34,9 @@ timezone: Asia/Tokyo
 encoding: utf-8
 
 markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough", "tables", "fenced_code_blocks"]
+
 pygments: true
 permalink: pretty
 paginate: 10
@@ -42,6 +45,11 @@ owner :                           # Change your name, GitHub name, Twitter id.
   name : ogaclejapan
   github : ogaclejapan
   twitter : ogaclejapan
+#  googleplus :
+#  facebook :
+
+# See http://schema.org/Article
+schema_article_type : Article
 
 #google_analytics :               # Available soon as you get the tracking code.
 #  tracking_id : 'UA-XXXXXXXX-X'  # http://www.google.com/analytics/
