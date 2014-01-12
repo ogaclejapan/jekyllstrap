@@ -54,51 +54,59 @@ To add new posts,...">
         <li><a href="/jekyllstrap/categories/">Categories</a></li>
         <li><a href="/jekyllstrap/tags/">Tags</a></li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">ogaclejapan <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            
-            <li>
-              <a href="https://www.github.com/ogaclejapan">
-                <i class="fa fa-github-square fa-lg"></i> GitHub
-              </a>
-            </li>
-            
-            
-            <li>
-              <a href="http://www.twitter.com/ogaclejapan">
-                <i class="fa fa-twitter-square fa-lg"></i> Twitter
-              </a>
-            </li>
-            
-            <li>
-              <a href="/jekyllstrap/atom.xml">
-                <i class="fa fa-rss-square fa-lg fa-lg"></i> Rss
-              </a>
-            </li>
-          </ul>
-        </li>      
-      </ul>          
+      <div id="owner" itemprop="author copyrightHolder editor" itemscope itemtype="http://schema.org/Person">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">ogaclejapan <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              
+              <li>
+                
+                <a href="https://www.github.com/ogaclejapan" itemprop="sameAs" content="https://www.github.com/ogaclejapan">
+                  <i class="fa fa-github-square fa-lg"></i> GitHub
+                </a>
+              </li>
+              
+              
+              <li>
+                
+                <a href="http://www.twitter.com/ogaclejapan" itemprop="sameAs" content="http://www.twitter.com/ogaclejapan">
+                  <i class="fa fa-twitter-square fa-lg"></i> Twitter
+                </a>
+              </li>
+              
+              
+              
+              <li>
+                <a href="/jekyllstrap/atom.xml">
+                  <i class="fa fa-rss-square fa-lg fa-lg"></i> Rss
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
 
     <div id="content">
       <div class="container">
-        <article class="page-content">
+        <article itemscope itemtype="http://schema.org/Article" itemref="owner">
           
 <div class="row">
   <div class="col-md-12 col-sm-12 col-xs-12">
     <div class="page-header">
-      <h1><i class="fa fa-puzzle-piece fa-lg"></i> Welcome to Jekyll!</h1>
+      <h1 itemprop="url" content="http://ogaclejapan.github.io/jekyllstrap/jekyll/2013/12/17/welcome-to-jekyll/">
+        <i class="fa fa-puzzle-piece fa-lg"></i> <span itemprop="name">Welcome to Jekyll!</span>
+      </h1>
     </div>
   </div>
 </div>
 
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
-              <div class="page-body">
+              <div itmprop="articleBody">
                 <p>You&#39;ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
 To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
 
@@ -122,17 +130,20 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
     <div class="page-footer">
       <div class="list-group">
         <a href="/jekyllstrap/archives/#y-2013" class="list-group-item col-md-3 col-sm-4 col-xs-6">
-          <i class="fa fa fa-archive fa-lg"></i> <em>17 Dec 2013</em>
+          <i class="fa fa fa-archive fa-lg"></i> 
+          <em itemprop="datePublished" content="2013-12-17">
+            17 Dec 2013
+          </em>
         </a>
         
         <a href="/jekyllstrap/categories/#jekyll" class="list-group-item col-md-3 col-sm-4 col-xs-6">
-          <i class="fa fa-folder-open fa-lg"></i> <em>Jekyll</em>
+          <i class="fa fa-folder-open fa-lg"></i> <em itemprop="keywords">Jekyll</em>
           <span class="badge">1</span>
         </a>
         
         
         <a href="/jekyllstrap/tags/#jekyll" class="list-group-item col-md-3 col-sm-4 col-xs-6">
-          <i class="fa fa-tag fa-lg"></i> <em>Jekyll</em>
+          <i class="fa fa-tag fa-lg"></i> <em itemprop="keywords">Jekyll</em>
           <span class="badge">1</span>
         </a>
         
@@ -163,6 +174,8 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
               <i class="fa fa-twitter-square fa-lg"></i> Twitter
             </a>
           </li>
+          
+          
           
           <li>
             <a href="/jekyllstrap/atom.xml">
