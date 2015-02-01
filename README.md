@@ -1,3 +1,10 @@
+DEPRECATED
+============
+
+Jekyllstrap is deprecated.
+
+See [materi for jekyll](http://github.com/ogaclejapan/materi-for-jekyll)
+
 # Jekyllstrap
 
 Jekyllstrap is a Jekyll template to which is applied a theme of Bootstrap.
@@ -79,7 +86,7 @@ Edit `_includes/css.html` URLs.
 
 ```html
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.3/cosmo/bootstrap.min.css">
-<!-- 
+<!--
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.3/cerulean/bootstrap.min.css">
 -->
 ```
@@ -88,7 +95,7 @@ Edit `_includes/css.html` URLs.
 
 ```html
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
-<!-- 
+<!--
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.3/cerulean/bootstrap.min.css">
 -->
 ```
@@ -102,7 +109,7 @@ MIT License. See [LICENSE][jekyllstrap-license]
 [jekyll]: http://jekyllrb.com/
 [jekyll-install]: http://jekyllrb.com/docs/installation/
 [jekyll-post]: http://jekyllrb.com/docs/posts/
-[jekyll-build]: http://jekyllrb.com/docs/usage/ 
+[jekyll-build]: http://jekyllrb.com/docs/usage/
 [jekyll-deploy]: http://jekyllrb.com/docs/github-pages/
 [jekyll-s3]: https://github.com/laurilehmijoki/jekyll-s3
 [bootstrap]: http://getbootstrap.com/
@@ -112,5 +119,3 @@ MIT License. See [LICENSE][jekyllstrap-license]
 [jekyllstrap-github]: https://github.com/ogaclejapan/jekyllstrap
 [jekyllstrap-preview]: http://ogaclejapan.github.io/jekyllstrap/
 [jekyllstrap-license]: https://github.com/ogaclejapan/jekyllstrap/blob/master/LICENSE
-
-
